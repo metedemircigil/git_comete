@@ -1,4 +1,4 @@
-ss[a4]{article}
+\documentclass[a4]{article}
 
 \usepackage[latin1]{inputenc}
 \usepackage[T1]{fontenc}
@@ -19,12 +19,261 @@ ss[a4]{article}
 \usepackage{graphicx}
 
 
-\title{RÃ©pertoire d'article}
-\author{La ComÃ¨te}
+\title{Répertoire d'article}
+\author{La Comète}
 \date{}
 
 \begin{document}
 \maketitle
+
+\section{Articles par ordre chronologique}
+
+Matieres premieres : comment les traders suisses ecoulent du carburant toxique en Afrique\newline
+\url{http://www.lemonde.fr/afrique/article/2016/09/15/matieres-premieres-comment-les-traders-suisses-ecoulent-du-carburant-toxique-en-afrique_4998076_3212.html}
+\newline
+
+
+L'UE face a l'immigration: De l'echec a la renonciation\newline
+\url{https://www.mediapart.fr/journal/international/190916/l-ue-face-l-immigration-de-l-echec-la-renonciation}
+\newline
+
+
+Atticus Lish illumine les trajectoires de la misere americaine:\newline
+\url{https://www.mediapart.fr/journal/culture-idees/190916/atticus-lish-illumine-les-trajectoires-de-la-misere-americaine}\newline
++Extrait:\newline
+\url{https://static.mediapart.fr/files/2016/09/16/extrait-atticus-lish-p-9-a-22.pdf} \newline
+
+
+En Siberie au coeur d'une des villes vitrines de Poutine: \newline
+\url{https://www.mediapart.fr/journal/international/150916/en-siberie-au-coeur-d-une-des-villes-vitrines-de-poutine?page_article=3} \newline
+
+
+Lilo, le moteur de recherche redistribution et citoyen: vos clics valent de l'or\newline
+\url{https://blogs.mediapart.fr/frederic-lhelgoualch/blog/150916/lilo-le-moteur-de-recherche-redistributif-et-citoyen-vos-clics-valent-de-lor}\newline
+
+
+Condition de diffusion de la démocratie \newline
+\url{https://www.mediapart.fr/journal/culture-idees/150916/le-philosophe-florent-guenard-interroge-les-conditions-de-diffusion-de-la-democratie}\newline
+
+
+Facebook censure:\newline
+\url{http://time.com/4484905/facebook-censorship-napalm-girl-newspaper-editor-norway/}\newline
+
+
+Notre futur saturé d'application ne sera pas si rose\newline
+\url{http://abonnes.lemonde.fr/big-browser/article/2016/09/13/notre-futur-sature-d-applications-ne-sera-pas-si-rose_4996975_4832693.html}
+
+
+La pièce obscure ou la mauvaise passe des indignés espagnols\newline
+\url{https://www.mediapart.fr/journal/culture-idees/110916/la-piece-obscure-ou-la-mauvaise-passe-des-indignes-espagnols}\newline
+
+
+
+L'Equateur s'engage à lutter contre l'évasion fiscale\newline
+\url{https://www.mediapart.fr/journal/international/120916/l-equateur-s-engage-lutter-contre-l-evasion-fiscale}\newline
+
+
+Cher Kery James, votre article me choque \newline
+\url{http://rue89.nouvelobs.com/rue89-culture/2012/03/04/cher-kery-james-votre-lettre-la-republique-me-choque-229908}\newline
+
+
+Angela Merkel met en garde contre la montée des extrémismes (voir les commentaires) \newline
+\url{http://abonnes.lemonde.fr/europe/reactions/2016/09/07/angela-merkel-met-en-garde-contre-la-montee-des-extremismes_4994180_3214.html} \newline
+
+Si l'océan se meurt, la planète aussi\newline
+\url{http://abonnes.lemonde.fr/climat/article/2016/09/06/si-l-ocean-se-meurt-la-planete-aussi_4992961_1652612.html} \newline
+
+Nouvelles pratiques des assurances-vie\newline
+\url{http://abonnes.lemonde.fr/economie/article/2016/09/06/assurance-votre-vie-privee-vaut-bien-une-ristourne_4993378_3234.html} \newline
+
+
+Leçons à Fillon sur l'Histoire \newline
+\url{https://blogs.mediapart.fr/gilbertpago/blog/040916/fillon-l-aise-dans-le-cambouis-identitariste?utm_source=facebook&utm_medium=social&utm_campaign=Sharing&xtor=CS3-66}
+
+Benjamin Bayart sur la neutralité du net \newline
+\url{https://www.youtube.com/watch?v=i7JVzN3dM34}\newline
+
+PirateBox\newline
+\url{http://www.bastamag.net/Piratebox-ou-comment-echapper-au}\newline
+
+Logiciel libre à l'Ecole \newline
+\url{http://www.bastamag.net/Rentree-scolaire-education-numerique-logiciels-libres}\newline
+
+Le Monde soutient le TAFTA \newline
+\url{http://abonnes.lemonde.fr/idees/article/2016/09/02/negociations-sur-le-tafta-les-malheurs-du-libre-echange_4991548_3232.html} \newline
+
+Pourquoi les multinationales achètent nos dirigeants\newline
+\url{http://osonscauser.com/pourquoi-les-multinationales-achetent-nos-dirigeants/}\newline
++ Article sur le pantoufle \newline
+\url{https://www.pantouflewatch.org/2016/07/05/pantouflage-en-europe-le-capitalisme-de-connivence/}\newline
+
+Loi sur le travail: Valls repasse en force \newline
+\url{https://www.mediapart.fr/journal/economie/050716/loi-sur-le-travail-valls-repasse-en-force}\newline
+
+Pirater la présidentielle \newline
+\url{https://www.mediapart.fr/journal/france/050716/pirater-la-presidentielle}\newline
+
+Traitement médiatique de la loi Travail \newline
+\url{http://www.monde-diplomatique.fr/2016/07/HALIMI/55956}\newline
+
+
+
+
+
+
+
+
+
+
+
+
+\section{Articles par thématiques}
+
+\subsection{Internet}
+
+Lilo, le moteur de recherche redistribution et citoyen: vos clics valent de l'or\newline
+\url{https://blogs.mediapart.fr/frederic-lhelgoualch/blog/150916/lilo-le-moteur-de-recherche-redistributif-et-citoyen-vos-clics-valent-de-lor}\newline
+
+
+Facebook censure:\newline
+\url{http://time.com/4484905/facebook-censorship-napalm-girl-newspaper-editor-norway/}\newline
+
+
+Notre futur saturé d'application ne sera pas si rose\newline
+\url{http://abonnes.lemonde.fr/big-browser/article/2016/09/13/notre-futur-sature-d-applications-ne-sera-pas-si-rose_4996975_4832693.html}\newline
+
+Benjamin Bayart sur la neutralité du net \newline
+\url{https://www.youtube.com/watch?v=i7JVzN3dM34}\newline
+
+PirateBox\newline
+\url{http://www.bastamag.net/Piratebox-ou-comment-echapper-au}\newline
+
+Logiciel libre à l'Ecole \newline
+\url{http://www.bastamag.net/Rentree-scolaire-education-numerique-logiciels-libres}\newline
+
+
+
+
+\subsection{Pratiques répugnantes}
+
+Matieres premieres : comment les traders suisses ecoulent du carburant toxique en Afrique\newline
+\url{http://www.lemonde.fr/afrique/article/2016/09/15/matieres-premieres-comment-les-traders-suisses-ecoulent-du-carburant-toxique-en-afrique_4998076_3212.html}
+\newline
+
+Nouvelles pratiques des assurances-vie\newline
+\url{http://abonnes.lemonde.fr/economie/article/2016/09/06/assurance-votre-vie-privee-vaut-bien-une-ristourne_4993378_3234.html} \newline
+
+Pourquoi les multinationales achètent nos dirigeants\newline
+\url{http://osonscauser.com/pourquoi-les-multinationales-achetent-nos-dirigeants/}\newline
++ Article sur le pantoufle \newline
+\url{https://www.pantouflewatch.org/2016/07/05/pantouflage-en-europe-le-capitalisme-de-connivence/}\newline
+
+\subsection{Les médias}
+
+Traitement médiatique de la loi Travail \newline
+\url{http://www.monde-diplomatique.fr/2016/07/HALIMI/55956}\newline
+
+
+
+
+
+\subsection{Ecologie}
+
+Si l'océan se meurt, la planète aussi\newline
+\url{http://abonnes.lemonde.fr/climat/article/2016/09/06/si-l-ocean-se-meurt-la-planete-aussi_4992961_1652612.html} \newline
+
+\subsection{Politique}
+
+Loi sur le travail: Valls repasse en force \newline
+\url{https://www.mediapart.fr/journal/economie/050716/loi-sur-le-travail-valls-repasse-en-force}\newline
+
+Pirater la présidentielle \newline
+\url{https://www.mediapart.fr/journal/france/050716/pirater-la-presidentielle}\newline
+
+
+
+
+\subsection{Articles \og philosophiques \fg}
+
+Condition de diffusion de la démocratie \newline
+\url{https://www.mediapart.fr/journal/culture-idees/150916/le-philosophe-florent-guenard-interroge-les-conditions-de-diffusion-de-la-democratie}\newline
+
+Leçons à Fillon sur l'Histoire \newline
+\url{https://blogs.mediapart.fr/gilbertpago/blog/040916/fillon-l-aise-dans-le-cambouis-identitariste?utm_source=facebook&utm_medium=social&utm_campaign=Sharing&xtor=CS3-66}
+
+
+
+
+\subsection{Culture}
+
+La pièce obscure ou la mauvaise passe des indignés espagnols\newline
+\url{https://www.mediapart.fr/journal/culture-idees/110916/la-piece-obscure-ou-la-mauvaise-passe-des-indignes-espagnols}\newline
+
+
+Atticus Lish illumine les trajectoires de la misere americaine:\newline
+\url{https://www.mediapart.fr/journal/culture-idees/190916/atticus-lish-illumine-les-trajectoires-de-la-misere-americaine}\newline
++Extrait:\newline
+\url{https://static.mediapart.fr/files/2016/09/16/extrait-atticus-lish-p-9-a-22.pdf} \newline
+
+Cher Kery James, votre article me choque \newline
+\url{http://rue89.nouvelobs.com/rue89-culture/2012/03/04/cher-kery-james-votre-lettre-la-republique-me-choque-229908}\newline
+
+
+
+
+\subsection{Economie}
+
+L'Equateur s'engage à lutter contre l'évasion fiscale\newline
+\url{https://www.mediapart.fr/journal/international/120916/l-equateur-s-engage-lutter-contre-l-evasion-fiscale}\newline
+
+Le Monde soutient le TAFTA \newline
+\url{http://abonnes.lemonde.fr/idees/article/2016/09/02/negociations-sur-le-tafta-les-malheurs-du-libre-echange_4991548_3232.html} \newline
+
+Pourquoi les multinationales achètent nos dirigeants\newline
+\url{http://osonscauser.com/pourquoi-les-multinationales-achetent-nos-dirigeants/}\newline
++ Article sur le pantoufle \newline
+\url{https://www.pantouflewatch.org/2016/07/05/pantouflage-en-europe-le-capitalisme-de-connivence/}\newline
+
+
+
+\subsection{Europe}
+
+L'UE face a l'immigration: De l'echec a la renonciation\newline
+\url{https://www.mediapart.fr/journal/international/190916/l-ue-face-l-immigration-de-l-echec-la-renonciation}
+\newline
+
+Angela Merkel met en garde contre la montée des extrémismes (voir les commentaires) \newline
+\url{http://abonnes.lemonde.fr/europe/reactions/2016/09/07/angela-merkel-met-en-garde-contre-la-montee-des-extremismes_4994180_3214.html} \newline
+
+
+
+
+\subsection{Afrique}
+
+Matieres premieres : comment les traders suisses ecoulent du carburant toxique en Afrique\newline
+\url{http://www.lemonde.fr/afrique/article/2016/09/15/matieres-premieres-comment-les-traders-suisses-ecoulent-du-carburant-toxique-en-afrique_4998076_3212.html}
+\newline
+
+
+
+
+\subsection{Amérique}
+
+L'Equateur s'engage à lutter contre l'évasion fiscale\newline
+\url{https://www.mediapart.fr/journal/international/120916/l-equateur-s-engage-lutter-contre-l-evasion-fiscale}\newline
+
+
+
+
+\subsection{Asie}
+
+En Siberie au coeur d'une des villes vitrines de Poutine: \newline
+\url{https://www.mediapart.fr/journal/international/150916/en-siberie-au-coeur-d-une-des-villes-vitrines-de-poutine?page_article=3} \newline
+
+
+
+
+
 
 
 \end{document}
