@@ -1,0 +1,30 @@
+ss[a4]{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage{hyperref}
+\usepackage{layout}
+\usepackage[francais]{babel}
+\usepackage{calc}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{stmaryrd}
+\usepackage{braket}
+\usepackage[top=3.5cm, bottom=3.6cm, left=3.2cm, right=3.2cm]{geometry}
+\theoremstyle{plain}
+\usepackage{graphicx}
+
+
+\title{Répertoire d'article}
+\author{La Comète}
+\date{}
+
+\begin{document}
+\maketitle
+
+
+\end{document}
